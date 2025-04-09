@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Caixinha de Mensagens</title>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Nunito&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Caixinha de Mensagens</h1>
+  <div id="mascot">
+    <img src="" alt="">
+  </div>
+  <div id="stars"></div>
+  <div id="depthParticles"></div>
+  <div id="messageBox" class="opening">
+    <p id="messageText"><span>Você é meu raio de sol em qualquer céu nublado 🌤️</span></p>
+  </div>
+  <button id="showMessageBtn" onclick="showMessage(event)">Mostrar mensagem</button>
+  <div id="modeButtons">
+    <button onclick="setMode('')">Claro</button>
+    <button onclick="setMode('dark')">Escuro</button>
+  </div>
+  <div class="particles"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
