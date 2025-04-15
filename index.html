@@ -4,26 +4,38 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Caixinha de Mensagens</title>
-  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Nunito&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <h1>Caixinha de Mensagens</h1>
-  <div id="mascot">
-    <img src="" alt="">
+  <header>
+    <h1>Caixinha de Mensagens</h1>
+  </header>
+  <main>
+    <div id="stars" aria-hidden="true"></div>
+    <div id="depthParticles" aria-hidden="true"></div>
+    <div id="messageBox" class="opening" role="alert">
+      <p id="messageText"><span>Você é meu raio de sol em qualquer céu nublado 🌤️</span><span id="favoriteIndicator" class="hidden">❤️</span></p>
+    </div>
+    <button id="showMessageBtn" aria-label="Mostrar nova mensagem" onclick="showMessage(event)">Mostrar mensagem</button>
+    <div id="favoritesButtons">
+      <button id="viewFavoritesBtn" aria-label="Ver mensagens favoritadas">Ver Favoritos</button>
+      <button id="favoriteBtn" aria-label="Favoritar ou desfavoritar mensagem">❤️</button>
+    </div>
+    <div id="modeButtons">
+      <button aria-label="Ativar modo claro" onclick="setMode('')">Claro</button>
+      <button aria-label="Ativar modo escuro" onclick="setMode('dark')">Escuro</button>
+    </div>
+    <div class="particles" aria-hidden="true"></div>
+  </main>
+  <div id="favoritesModal" class="modal hidden">
+    <div class="modal-content">
+      <button id="closeModalBtn" aria-label="Fechar janela de favoritos">✖</button>
+      <h2>Mensagens Favoritadas</h2>
+      <div id="favoritesList"></div>
+      <button id="clearFavoritesBtn" aria-label="Zerar todos os favoritos">Zerar Favoritos</button>
+    </div>
   </div>
-  <div id="stars"></div>
-  <div id="depthParticles"></div>
-  <div id="messageBox" class="opening">
-    <p id="messageText"><span>Você é meu raio de sol em qualquer céu nublado 🌤️</span></p>
-  </div>
-  <button id="showMessageBtn" onclick="showMessage(event)">Mostrar mensagem</button>
-  <div id="modeButtons">
-    <button onclick="setMode('')">Claro</button>
-    <button onclick="setMode('dark')">Escuro</button>
-  </div>
-  <div class="particles"></div>
-
   <script src="script.js"></script>
 </body>
 </html>
