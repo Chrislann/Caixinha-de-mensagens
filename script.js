@@ -56,7 +56,7 @@ const messages = [
   "Você é o meu amor. Mesmo quando estou longe de você, é como se estivéssemos sempre juntos. Porque no fundo, onde o amor mora, você e eu sempre seremos um só.",
   "Você tem encantado meu coração de maneiras que eu nunca imaginei ser possível. Eu não posso viver sem você. Você é tudo o que meu coração deseja e anseia.",
   "Eu te amo, e não importa o que aconteça, isso nunca vai mudar. O amor que sinto por você é o mais puro e verdadeiro dos sentimentos. O tempo e a distância podem passar, mas o que sentimos um pelo outro é eterno.",
-  "Tu te tornas eternamente responsável por aquilo que cativas. E eu cativei você. E por isso, o amor que sinto por você é eterno, minha princesa, minha estrela.",
+  "Tu te tornas eternamente responsável por aquilo que cativas. E eu cativei você. E por isso, o amor que sinto por você é eterno, minha princesa.",
   "E quando te olho, vejo o único lugar onde eu realmente pertenço. Não importa o que o mundo faça, o que me importa é que você está aqui, comigo. E isso é o suficiente.",
   "Amar é ser tudo o que o outro precisa, mesmo quando o mundo ao redor se desintegra. Eu estarei sempre aqui, ao seu lado, independente de onde a vida nos leve. O amor que sinto por você é o que me mantém firme.",
   "O amor é feito de pequenos gestos, de olhares silenciosos, de toques que falam mais do que mil palavras. Quando estou com você, o mundo inteiro parece desaparecer e eu só quero estar aqui, ao seu lado.",
