@@ -23,7 +23,6 @@ const messages = [
   "Você é a pessoa que sempre sonhei em ter ao meu lado. 😍💍",
   "Com você, a vida é mais doce, mais leve e muito mais feliz. 🍭❤️",
   "Te olhar é como ver o pôr do sol mais bonito de todos os tempos. 🌅💖",
-  "Você é meu tudo, minha razão, meu amor, minha vida. 💑🌸",
   "Te amo mais do que ontem, mas menos do que amanhã. 💖📆",
   "Eu nunca pensei que o amor fosse tão maravilhoso até encontrar você. 💭💖",
   "Você é a pessoa que completa meu coração de uma forma que ninguém mais jamais vai conseguir. 💘💖",
