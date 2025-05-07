@@ -81,6 +81,14 @@ const messages = [
   "Eu amo você de uma maneira tão profunda que, quando não estamos juntos, o vazio parece tomar conta do meu coração. Mas, quando você está perto, o mundo inteiro se ilumina.",
   "É como se eu tivesse esperado toda a minha vida para te conhecer, e agora que te encontrei, quero passar o resto dos meus dias ao seu lado, rindo, amando, vivendo.",
   "O amor não é algo que se encontra, é algo que se constrói. Quando encontrei você, soube que minha jornada tinha acabado, porque você é o meu destino.",
+  "Se por te beijar tivesse que ir depois para o inferno, eu faria isso. Assim poderei me gabar aos demônios de ter estado no paraíso sem nunca ter entrado nele.",
+  "Te perder seria me perder junto, porque já não sei onde termina você e começa o que eu sou.",
+  "Eu te amo de um jeito que nem o tempo entende: quanto mais ele passa, mais eu fico preso em você.",
+  "Se existe um limite para amar, eu passei dele no primeiro “eu te amo” que trocamos.",
+  "Porque, sem procurá-la, ando encontrando-a por toda parte, principalmente quando fecho os olhos.",
+  "A distância faz ao amor aquilo que o vento faz ao fogo: apaga o pequeno, inflama o grande.",
+  "Eu te amo como se ama pela primeira vez, com todo o meu coração e para sempre",
+ 
 ];
 
 let shownMessages = [];
