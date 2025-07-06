@@ -38,7 +38,14 @@ const messages = [
   "Porque, sem procurá-la, ando encontrando-a por toda parte, principalmente quando fecho os olhos.",
   "A distância faz ao amor aquilo que o vento faz ao fogo: apaga o pequeno, inflama o grande.",
   "Eu te amo como se ama pela primeira vez, com todo o meu coração e para sempre",
- 
+  "Há silêncios entre nós que dizem mais que mil palavras. Neles, encontro a certeza de que nossas almas se reconhecem, se entrelaçam em um nível que transcende o entendimento comum, numa conexão que é puramente nossa.",
+  "Antes de amar você, eu não existia. Eu era um pressentimento. Você, você me deu a realidade, a forma de ser, a estranheza de estar. É como se eu tivesse encontrado em você a cor que faltava no meu mundo, a melodia que a minha alma buscava. E agora, cada instante ao seu lado é uma redescoberta de mim mesmo, através do brilho dos seus olhos.",
+  "Certa noite, sonhei com você, e o mundo se expandiu, e cada coisa em mim se fez mais leve e mais bela. E quando acordei, percebi que você não era apenas um sonho, mas a realidade que eu sempre busquei, a canção que faltava na minha melodia, a cor que pintou de vez o meu horizonte. E desde então, cada batida do meu coração é um eco do seu.",
+  "Amo-te sem saber como, nem quando, nem onde, amo-te simplesmente, sem problemas nem orgulho: amo-te assim porque não sei amar de outra maneira.",
+  "Seja qual for a matéria de que nossas almas são feitas, a minha e a sua são iguais.",
+  "Dizem que um corpo em movimento tende a permanecer em movimento. Desde que te conheci, meu coração entrou em órbita ao redor do seu, e não há força no universo que possa mudar essa trajetória.",
+  "Se eu tiver que viver mil vidas, em todas elas procurarei por você. Porque te amar não é uma escolha, é uma consequência de existir.",
+
 ];
 
 let shownMessages = [];
