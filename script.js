@@ -45,6 +45,12 @@ const messages = [
   "Seja qual for a matéria de que nossas almas são feitas, a minha e a sua são iguais.",
   "Dizem que um corpo em movimento tende a permanecer em movimento. Desde que te conheci, meu coração entrou em órbita ao redor do seu, e não há força no universo que possa mudar essa trajetória.",
   "Se eu tiver que viver mil vidas, em todas elas procurarei por você. Porque te amar não é uma escolha, é uma consequência de existir.",
+  "Você chegou e tudo o que antes era suficiente deixou de ser. Porque agora, o bastante é só você.",
+  "Há almas que se reconhecem antes mesmo dos olhos se encontrarem. A sua grita dentro da minha.",
+  "Se um dia eu não souber mais dizer que te amo, me observa em silêncio. Meu olhar vai continuar falando.",
+  "Tem dias que nem sei explicar. Só sei que você existe — e isso basta para tudo fazer sentido.",
+  "Quando penso em futuro, não vejo lugares. Vejo você me esperando em algum canto, sorrindo.",
+  
 
 ];
 
