@@ -50,6 +50,7 @@ const messages = [
   "Se um dia eu não souber mais dizer que te amo, me observa em silêncio. Meu olhar vai continuar falando.",
   "Tem dias que nem sei explicar. Só sei que você existe — e isso basta para tudo fazer sentido.",
   "Quando penso em futuro, não vejo lugares. Vejo você me esperando em algum canto, sorrindo.",
+  "E se eu te olhar cem vezes, acredite, em cada uma delas estarei me apaixonando um pouco mais.",
   
 
 ];
