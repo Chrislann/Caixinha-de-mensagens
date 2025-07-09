@@ -51,6 +51,13 @@ const messages = [
   "Tem dias que nem sei explicar. Só sei que você existe — e isso basta para tudo fazer sentido.",
   "Quando penso em futuro, não vejo lugares. Vejo você me esperando em algum canto, sorrindo.",
   "E se eu te olhar cem vezes, acredite, em cada uma delas estarei me apaixonando um pouco mais.",
+  "Quando te digo que te amo, não o digo por hábito. Digo para te lembrar que és a melhor coisa que já me aconteceu.",
+  "Eu carrego o seu coração comigo (eu o carrego no meu coração). Nunca estou sem ele (onde quer que eu vá, você vai).",
+  "O tempo é a substância de que sou feito. E as melhores partes do meu tempo são, indiscutivelmente, preenchidas por você.",
+  "Dizem que duas partículas que já estiveram conectadas se influenciam para sempre, não importa a distância. Acho que nossas almas são assim. Entrelaçadas quanticamente.",
+  "Existem bilhões de pessoas no mundo, mas quando estou com você, o mundo se resume a nós dois. Você não é apenas uma pessoa no meu mundo; você é o meu mundo inteiro.",
+  "Se tudo ao meu redor desaparecesse e só você ficasse, eu ainda teria tudo. Mas se tudo ficasse e você partisse, o universo se tornaria um grande vazio.",
+  "Algumas pessoas prometem o 'para sempre' como uma hipérbole. Para mim, quando digo que te amarei para sempre, sinto que é até pouco tempo para o que eu sinto.",
   
 
 ];
